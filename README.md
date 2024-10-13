@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am an iOS developer wizard, master of app creation! … someday 😄 <br>
 
 <!--
 **miktaba/miktaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
