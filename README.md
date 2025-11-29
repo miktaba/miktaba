@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-I’m building mobile apps with Flutter and learning iOS development step by step.
-Focused on clean architecture, predictable state management, and shipping real products.
+I’m building mobile apps with Flutter and learning iOS development step by step. <br>
+Focused on clean architecture, predictable state management, and shipping real products. <br>
 
 ### Tech Stack
 
-Mobile: Flutter (Dart), SwiftUI, UIKit
-Backend: FastAPI, Python, PostgreSQL, Redis, MongoDB
-Tools: Docker, GitHub Actions, Nginx, VPS deployment, Tailscale
-Other: Figma, Sanity CMS, Nexi Nets integrations, Twilio integration, modular architecture, SOLID
+Mobile: Flutter (Dart), SwiftUI, UIKit <br>
+Backend: FastAPI, Python, PostgreSQL, Redis, MongoDB <br>
+Tools: Docker, GitHub Actions, Nginx, VPS deployment, Tailscale <br>
+Other: Figma, Sanity CMS, Nexi Nets integrations, Twilio integration, modular architecture, SOLID <br>
 
-What I’m working on
-	•	Flutter apps (production-ready architecture)
-	•	Backend services for Flutter projects
-	•	Improving iOS skills (SwiftUI + UIKit)
+What I’m working on<br>
+	•	Flutter apps (production-ready architecture)<br>
+	•	Backend services for Flutter projects<br>
+	•	Improving iOS skills (SwiftUI + UIKit)<br>
 
 <!--
 **miktaba/miktaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
