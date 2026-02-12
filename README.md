@@ -1,31 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-I’m building mobile apps with Flutter and learning iOS development step by step. <br>
-Focused on clean architecture, predictable state management, and shipping real products. <br>
+I'm a mobile engineer based in Montenegro 🇲🇪  
+* 🛠️ I’m currently building apps with **Flutter** & **Swift**  
+* 🚀 I specialize in **Clean Architecture** and **CI/CD** (Fastlane & GitHub Actions)  
+* 🐍 Experience in building backends with **FastAPI** & **Python**  
+* 🏔️ I’m a former snowboard instructor & freeride guide  
+* ⚡ Fun fact: I spend my winters balancing between VS Code and fresh powder  
 
-### Tech Stack
-
-Mobile: Flutter (Dart), SwiftUI, UIKit <br>
-Backend: FastAPI, Python, PostgreSQL, Redis, MongoDB <br>
-Tools: Docker, GitHub Actions, Nginx, VPS deployment, Tailscale <br>
-Other: Figma, Sanity CMS, Nexi Nets integrations, Twilio integration, modular architecture, SOLID <br>
-
-What I’m working on<br>
-	•	Flutter apps (production-ready architecture)<br>
-	•	Backend services for Flutter projects<br>
-	•	Improving iOS skills (SwiftUI + UIKit)<br>
-
-<!--
-**miktaba/miktaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[LinkedIn](https://www.linkedin.com/in/miktab/)**
